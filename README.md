@@ -1,3 +1,8 @@
+# Instagram Clone MERN
+Real time DB achieved with pusher-js
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
